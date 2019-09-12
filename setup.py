@@ -4,8 +4,8 @@ def readme():
     with open('README.rst') as f:
         return f.read()
 
-setup(name='quinnstruct',
-      version='0.1',
+setup(name='QuinnStruct',
+      version='0.2',
       description='My personal data-struct library',
       long_description='This is a data-structure library that I wrote in Python at CodeFellows in Summer 2019',
       url='http://github.com/marvincolgin/quinnstruct',
