@@ -1,6 +1,6 @@
 QuinnStruct
 --------
 
-To use (with caution), simply do::
+To use, simply add the following::
 
-    >>> import QuinnStruct
+    >>> import quinnstruct
